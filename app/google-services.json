@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80899561686",
+    "firebase_url": "https://kayanwaiter.firebaseio.com",
+    "project_id": "kayanwaiter",
+    "storage_bucket": "kayanwaiter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80899561686:android:ddf71e3a0d47b480b75177",
+        "android_client_info": {
+          "package_name": "com.simpelexo.kayanwaiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80899561686-c8u0v6pc2hev2hfs57d7vf47ar9vpieg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simpelexo.kayanwaiter",
+            "certificate_hash": "1ba49a3f2adf7930aba6d0c3a6008bb244353b99"
+          }
+        },
+        {
+          "client_id": "80899561686-4u7v9h9hka63ctdnd5mgvknpb64f18h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgk_Wr8dzqphiqgsZ2boWbiA3Z0X7AruE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80899561686-4u7v9h9hka63ctdnd5mgvknpb64f18h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
